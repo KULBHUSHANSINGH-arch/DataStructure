@@ -1,0 +1,8 @@
+
+            else
+            {
+                cout << '-';
+            }
+        }
+
+        cout << endl;
