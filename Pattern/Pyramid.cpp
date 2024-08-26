@@ -20,3 +20,18 @@ int main()
         cout << endl;
     }
 }
+
+/** Outpule like the Full pyramid */
+/**
+
+ 8
+       *
+      * *
+     * * *
+    * * * *
+   * * * * *
+  * * * * * *
+ * * * * * * *
+* * * * * * * *
+
+ */
